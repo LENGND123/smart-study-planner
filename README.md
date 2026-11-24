@@ -32,7 +32,6 @@ cd smart-study-planner
 npm install
 npm run dev
 ```
-```markdown
 ---
 
 ## 👨‍💻 Author
